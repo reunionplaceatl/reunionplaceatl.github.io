@@ -12,12 +12,12 @@
 
 # Site settings
 title: Reunion Place Community Association
-description: 
+description: Premier Neighboorhood in Midwest Cascade in South-West Atlanta, Georgia
 owner:
   name: Reunion Place Community Association
-  email: gfair@arkadianriver.com
+  email: contactus@reunionplace.org
   url: http://reunionplaceatl.github.io
-first_published: 1996 # if migrating another site, the year of your first publish
+first_published: 1994 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://reunionplaceatl.github.io" # the base hostname & protocol for your site
 

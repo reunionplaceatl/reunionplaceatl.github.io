@@ -35,10 +35,10 @@ closing-para: Feel free to get in touch. Cheers!
 # on all pages (and the first three you list display with greeting, if included)
 social:
   #twitter: https://twitter.com/arkadianriver
-  #github: https://github.com/arkadianriver
+  github: https://github.com/reunionplaceatl
   #linkedin-square: https://linkedin.com/in/garyfaircloth
   facebook-official: https://facebook.com/reunionplaceatl
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  #google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
   email: /contact/
   #flickr:
   #instagram:
@@ -65,7 +65,7 @@ social:
   #slack:
   #vine:
   #weixin:
-  #yelp:
+  yelp:https://www.yelp.com/biz/reunion-place-community-association-atlanta
   #skyatlas:
   #leanpub:
   #connectdevelop:

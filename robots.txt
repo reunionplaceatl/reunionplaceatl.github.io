@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://reunionplaceatl.github.io/sitemap.xml
